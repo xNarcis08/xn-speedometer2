@@ -2,7 +2,7 @@ Preview: none
 
 Descriere: 
 
-- this speedometer was inspired by BadLand ( Thanks for sharing permission ) 
+- un speedometer inspirat de la brazilieni
 
 P.S:
 
